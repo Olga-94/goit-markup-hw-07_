@@ -1,12 +1,14 @@
 .header {
     
-    & .container {
-    display: flex;
-    align-items: center;
-  } 
+  //   & .container {
+  //   display: flex;
+  //   align-items: center;
+  // } 
 
     & .logo {
     margin-right: 93px;
+    padding-top: 24px;
+    padding-bottom: 24px;
   }
 
     &-address {
