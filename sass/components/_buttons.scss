@@ -1,7 +1,7 @@
 .buttons-list {
     display: flex;
     justify-content: center;
-    padding-bottom: 50px;
+    margin-bottom: 50px;
      
      &-item {
       font-family: "Roboto", sans-serif;
@@ -58,7 +58,7 @@
   
   .portfolio-buttons {
     padding-top: 94px;
-    padding-bottom: 34px;
+    padding-bottom: 94px;
 
    &-list-point:not(:last-child) {
   margin-right: 8px;  
